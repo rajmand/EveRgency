@@ -1,2 +1,2 @@
 
-Eve only local chat watcher
+Eve online local chat watcher
