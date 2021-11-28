@@ -2,7 +2,7 @@
 
 Eve online local chat watcher. Creates screenshots from specific area and looking for hostile icons. It can alert if any hostile found.
 
-#Features
+# Features
 * **safe**: does not inject into or write to the EVE Online client. 
 * **dynamic & configurable** : standing icons for hostile detection are configurable. Icon colors same as in Eve online. 
 
