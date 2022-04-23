@@ -13,6 +13,8 @@ It is java program. Need JRE or JDK to run this Java application.
 [x.x.x] - latest version. Example: 1.0.0
 
 1. Download and install JAVA (JRE or JDK)
+   1. minimum version is 17
+   2. example download: [Oracle-JDK17-Windows](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 2. Download the latest release at [Releases](https://github.com/rajmand/EveRgency/releases/)
 3. Unzip EveRgency-[x.x.x].zip
 4. Start EveRgency-[x.x.x].jar
@@ -21,6 +23,7 @@ It is java program. Need JRE or JDK to run this Java application.
 1 - Start EveRgency-[x.x.x].rar
 
 You should see the program:
+
 ![1](Guide/ScreenShot/1.jpg)
 
 2 - Open the settings
@@ -29,6 +32,7 @@ Click to setting button:
 ![settingsButton](Guide/ScreenShot/settingsButton.jpg)
 
 3 - You should see the settings tab:
+
 ![2](Guide/ScreenShot/2.jpg)
 
 3.1 Choose an icon for hostile type in the dropdown menu
